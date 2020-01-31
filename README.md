@@ -31,8 +31,11 @@ Output should be a tuple of network, product and month displaying aggregated loa
 
 #### Language & Framework
  Processing Framework: Apache Spark 2.2.0+
+ 
  Programming Language: Scala
+ 
  Build Tool: Apache Maven
+ 
  Version Control: Git
 
 #### Author
