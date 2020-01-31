@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>za.co.shantanu.fadnis</groupId>
-    <artifactId>Loans</artifactId>
+    <artifactId>coding-challenge-loans</artifactId>
     <version>1.0.0</version>
 
     <properties>
